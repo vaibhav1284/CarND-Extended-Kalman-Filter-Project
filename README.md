@@ -10,19 +10,21 @@ The goals and steps of this project are as follows :
 * Code efficieny : Code should be efficinet and redudant code should not be present
 
 
-## Compilation
+## Compilation and Accuracy
+
 The code was compiled without errors in the project workspace. The execution was done using simulator for both data sets - dataset1 and dataset2. The RMSE values were below the target range.
 
 <img src="./Images/Img2.JPG" width="400" alt="Image1" />  <img src="./Images/Img3.JPG" width="400" alt="Image2" />
 
 
-## Accuracy
-
-
-
 ## Algorithm Process
 
+The code changes were done in the below files :
+* FusionEKF.cpp 
+* kalman_filter.cpp
+* tools.cpp
 
 
 ## Code Efficiency
+
 
