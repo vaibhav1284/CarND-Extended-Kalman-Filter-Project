@@ -9,3 +9,18 @@ The goals and steps of this project are as follows :
 * Algorithm process : General processing flow should be followed, Handles the first measruement correctly,Algorithm first predicts and then updates ,Kakman filter handles both Lidar and Radar data
 * Code efficieny : Code should be efficinet and redudant code should not be present
 
+
+## Compilation
+
+
+
+## Accuracy
+
+
+
+## Algorithm Process
+
+
+
+## Code Efficiency
+
