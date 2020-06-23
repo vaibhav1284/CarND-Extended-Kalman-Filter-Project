@@ -26,5 +26,5 @@ The code changes were done in the below files :
 
 
 ## Code Efficiency
-
+The developed code is stable and gives consistent results on multiple rounds of execution. The structure of the code remains same (object oriented code having classes,member functions,private/public variables) as was provided. The code snippets from lessons were referred to build and integrate different components of the project. The code is commented and readable to understand features and functionality of the code.   
 
